@@ -1,0 +1,2 @@
+# NinaUpWork
+Bioinformatics scripts
