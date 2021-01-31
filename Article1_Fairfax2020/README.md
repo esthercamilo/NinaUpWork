@@ -40,7 +40,7 @@
 1. In order to use data from this article it is necessary to request access to authors (https://ega-archive.org/datasets/EGAD00001005973).
 
 2. To process about 1T of data in cloud might be expensive. Do you have a local server? 
-Using AWS EC2 instance t3.2xlarge, the price is 0.3328 USD/hora. This instance has 32Gb RAM. Process time would depend on the software to map and analysis. To storage 1T the price is US$ 0.30/Gb ($300.00) month and transfer is U$0,04 by Gb transfered. Might be an option using this portal <https://www.basepairtech.com/pricing/> for testing and only then you are running your samples, you use AWS.
+Using AWS EC2 instance t3.2xlarge, the price is 0.3328 USD/h. This instance has 32Gb RAM. Process time would depend on the software to map and analysis. To storage 1T the price is US$ 0.30/Gb ($300.00) month and transfer is U$0,04 by Gb transfered. Might be an option using this portal <https://www.basepairtech.com/pricing/> for testing and only then you are running your samples, you use AWS.
 
 
 
